@@ -1,5 +1,7 @@
 Download file node-module bằng cách sử dụng terminal chỉ trực tiếp vào file server sau đó sử dụng dòng lệnh: npm-i sẽ hiện hình sau =>
 <img width="583" alt="Ảnh màn hình 2023-08-29 lúc 22 17 02" src="https://github.com/nhantran124/BookSOnline/assets/116423542/9ff13b36-6d91-48a9-8746-63a943242b0c">
+
+
 Tương tự như client-admin và client-customer
 # Gmail mail service
     EMAIL_USER: 'put your email here'
